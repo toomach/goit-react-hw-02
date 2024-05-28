@@ -1,8 +1,8 @@
-import { useState, useEffect } from "react"
-import Description from "../Descriptio/Description"
-import Feedback from "../Feetback/Feetback"
-import Options from "../Options/Options"
-import Notification from "../Notification/Notification"
+import { useState, useEffect } from "react";
+import Description from "../Descriptio/Description";
+import Feedback from "../Feedback/Feetback";
+import Options from "../Options/Options";
+import Notification from "../Notification/Notification";
 
 
 
